@@ -11,10 +11,59 @@
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 
-    <title>Olá, mundo!</title>
+    <!-- estilo css -->
+    <link rel="stylesheet" type="text/css" href="../css/estilo.css">
+
+    <title>Band template</title>
   </head>
   <body>
-    <h1>Olá, mundo!</h1>
+    
+    <header><!-- inicio/menu -->
+      <nav id="menu" class="navbar fixed-top navbar-expand-sm">
+
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a href="" class="nav-link">home</a>
+          </li>
+        </ul>
+
+        <button class="navbar-toggler" data-toggle="collapse" data-target="#nav-target"><!-- inicio/botão navegação menu -->
+          <span class="fas fa-bars"></span>
+        </button><!-- fim/botão navegação menu -->
+
+        <div class="collapse navbar-collapse" id="nav-target">
+          <ul class="navbar-nav"><!-- inicio/navegação menu -->
+            <li class="nav-item">
+              <a href="" class="nav-link">band</a>
+            </li>
+            <li class="nav-item">
+              <a href="" class="nav-link">tour</a>
+            </li>
+            <li class="nav-item">
+              <a href="" class="nav-link">contact</a>
+            </li>
+            <li class="nav-item dropdown">
+
+              <a href="" class="nav-link dropdown-toggle" data-toggle="dropdown">more</a>
+
+              <div class="dropdown-menu dropdown-ajustes">
+                <a href="" class="dropdown-item">Merchandise</a>
+                <a href="" class="dropdown-item">Extras</a>
+                <a href="" class="dropdown-item">Media</a>
+              </div>
+
+            </li>
+          </ul><!-- fim/navegação menu -->
+        </div>
+
+        <button class="btn botao d-none d-sm-block">
+          <span class="fas fa-search"></span>
+        </button>
+
+      </nav>
+    </header><!-- fim/menu -->
+
+   
 
     <!-- JavaScript (Opcional) -->
     <!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->

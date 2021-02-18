@@ -1,0 +1,58 @@
+/* layout
+-----------------------*/
+body {
+	font-family: "Lato", sans-serif;
+	font-size: 15px
+}
+
+html, body {
+	height: 100%;
+}
+
+/* menu
+---------------------*/
+#menu {
+	background: #000;
+}
+
+header nav.navbar {
+	padding: 0px;
+}
+
+#menu a {
+	color: #fff;
+	text-transform: uppercase;
+}
+
+#menu .dropdown-ajustes a {
+	color: #000;
+	text-transform: lowercase;
+}
+
+#menu a:hover {
+	color: #000;
+	background: #999999;
+}
+
+nav button.navbar-toggler span {
+	color: white;
+}
+
+nav button.navbar-toggler:hover {
+	background: #999999;
+}
+
+.btn-preto {
+	background: #000;
+	color: #fff;
+}
+
+.botao {
+	background: #000;
+	color: white;
+	border-radius: 0px;
+}
+
+.botao:hover {
+	background: red;
+}
