@@ -1,0 +1,99 @@
+/* layout
+-----------------------*/
+body {
+	font-family: "Lato", sans-serif;
+	font-size: 15px
+}
+
+html, body {
+	height: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+
+/* menu
+---------------------*/
+#menu {
+	background: #000;
+}
+
+header nav.navbar {
+	padding: 0px;
+}
+
+#menu a {
+	color: #fff;
+	text-transform: uppercase;
+}
+
+#menu .dropdown-ajustes a {
+	color: #000;
+	text-transform: lowercase;
+}
+
+#menu a:hover {
+	color: #000;
+	background: #999999;
+}
+
+nav button.navbar-toggler span {
+	color: white;
+}
+
+nav button.navbar-toggler:hover {
+	background: #999999;
+}
+
+.btn-preto {
+	background: #000;
+	color: #fff;
+}
+
+.botao {
+	background: #000;
+	color: white;
+	border-radius: 0px;
+}
+
+.botao:hover {
+	background: red;
+}
+
+/* carousel
+------------------*/
+#slide-id {
+	margin-top: 46px;
+}
+
+.imagem-slide {
+	width: 100%;
+}
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	#slide-id {
+		margin-top: 40px;
+	}
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+	
+}
+
+
