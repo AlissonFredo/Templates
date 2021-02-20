@@ -114,7 +114,76 @@ nav button.navbar-toggler:hover {
   	width: 50%;
 }
 
+/* tour
+-------------*/
+#tour {
+	background: #000;
+	padding-bottom: 4em;
+}
 
+#tour #titulo h2 {
+	font-size: 30px;
+	letter-spacing: 5px;
+	padding-top: 2.5em; 
+	color: white;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+#tour #titulo h4 {
+	font-size: 16px;
+	color: #8c8c8c;
+	text-align: center;
+	padding-top: 1em;
+	padding-bottom: 0.6em;
+}
+
+.list-group-item:first-child {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.list-group-item:last-child {
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.destaque {
+	color: white;
+	background: red;
+	padding: 5px 7px;
+	margin-left: 15px;
+}
+
+.width-card-tour {
+	width: 280px
+}
+
+.btn-preto {
+	background: #000;
+	color: #fff;
+}
+
+.btn-preto:hover {
+	background: #bfbfbf;
+	color: #000;
+}
+
+#tour .card {
+	border-radius: 0;
+}
+
+.card h4 {
+	font-size: 1.3em;
+	font-weight: bold;
+	color: #000;
+}
+
+.card span {
+	color: #bfbfbf;
+	display: inline-block;
+	padding-bottom: 15px;
+}
 
 
 /* Extra small devices (portrait phones, less than 576px)*/
