@@ -1,0 +1,30 @@
+#rodape .container-fluid {
+    background: #f2f2f2;
+}
+
+#rodape li {
+    background-color: #f2f2f2;
+}
+
+#rodape li a {
+    padding-left: 1px;
+    color: #595959;
+    border-bottom: 1px #595959 solid;
+}
+
+#rodape li a:hover {
+    text-decoration: none;
+}
+
+#rodape li.icones a {
+    font-size: 1.6em;
+    border-bottom: none;
+}
+
+#rodape li.icones a:hover {
+    text-decoration: none;
+    color: #8c8c8c;
+}
+
+
+
