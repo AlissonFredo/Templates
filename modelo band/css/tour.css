@@ -43,6 +43,17 @@
     font-weight: bold;
 }
 
+#tour .btn {
+    background: #000;
+    color: #fff;
+    border-radius: 0;
+}
+
+#tour .btn:hover {
+    background: #cccccc;
+    color: #000;
+}
+
 /* Extra small devices (portrait phones, less than 576px)*/
 @media (max-width: 575.98px) {
     #tour li {
