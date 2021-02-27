@@ -1,0 +1,45 @@
+#menu nav {
+    padding: 0;
+    background: #000;
+}
+
+#menu a {
+    font-size: 1.2em;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 0.5em 1.1em 0.5em 1.1em;
+    text-decoration: none;
+}
+
+#menu a:hover {
+    color: #000;
+    background: #cccccc;
+}
+
+#menu .dropdown-item {
+    color: #000; 
+    text-transform: capitalize;
+}
+
+#menu .dropdown-item:hover {
+    color: #000;
+}
+
+#menu .btn-pesquisa {
+    background: #000;
+    color: #fff;
+    border-radius: 0;
+    border: none;
+    padding-left: 1.3em;
+    padding-right: 1.3em;
+    padding-top: 0.7em;
+    padding-bottom: 0.7em;
+}
+
+#menu .btn-pesquisa:hover {
+    background: #ff3333;
+}
+
+#menu .button-menu{
+    color: #fff;
+}

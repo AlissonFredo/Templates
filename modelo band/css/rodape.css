@@ -1,4 +1,6 @@
-#rodape .container-fluid {
+#rodape {
+    padding-top: 5em;
+    padding-bottom: 5em;
     background: #f2f2f2;
 }
 
