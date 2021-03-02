@@ -7,7 +7,8 @@
 <h2 align="center">&#x1F6A7 Templates em contrução &#x1F6A7</h2>
 <br>
  <h2>&#x2705 Demonstrações:</h2>
- <img align="justify" src="screenshots/giphy.gif" alt="">
+ <p align="center"><img src="screenshots/giphy.gif" alt=""></p>
+ 
  <br><br>
 <h2>&#x2705 Como navegar nos layouts:</h2>
 <code>
