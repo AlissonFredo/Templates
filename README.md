@@ -7,7 +7,7 @@
 <h2 align="center">&#x1F6A7 Templates em contrução &#x1F6A7</h2>
 <br>
  <h2>&#x2705 Demonstrações:</h2>
- <p align="center"><img style="margin-right: 10px;" src="screenshots/giphy.gif" alt="" width="542px;"><img src="screenshots/giphy1.gif" alt="" width="150px;"></p>
+ <p align="center"><img src="screenshots/giphy.gif" alt="" width="542px;">&nbsp;&nbsp;&nbsp;<img src="screenshots/giphy1.gif" alt="" width="150px;"></p>
  
  <br><br>
 <h2>&#x2705 Como navegar nos layouts:</h2>
