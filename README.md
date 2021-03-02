@@ -1,7 +1,3 @@
-<style>
-
-</style>
-
 <h1 style="text-align: center;">Templates</h1>
 <h2>&#x1F4D2; Sobre:</h2>
 <p style="text-align: justify;">Template é uma repositorio onde guardo os layouts Web que estou replicando. Estes layouts replicados foram inspirados nos <a href="https://www.w3schools.com/css/css_rwd_templates.asp">layouts do site w3schools</a>. O objetivo é fazer com que eu pratique e ganhe fluencia nas tecnologias utilizadas nestes layouts.</p>
