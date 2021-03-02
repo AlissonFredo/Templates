@@ -11,15 +11,16 @@
  
  <br><br>
 <h2>&#x2705 Como navegar nos layouts:</h2>
-<code>
-    # clone este repositorio <br>
+
+```bash
+    # clone este repositorio
     $ git clone https://github.com/AlissonFredo/Templates.git
-    <br><br>
-    # selecione o template que você deseja navegar.<br>
-    # exemplo modelo band.<br>
-    # selecione a pasta HTML.<br>
+    # selecione o template que você deseja navegar.
+    # exemplo modelo band.
+    # selecione a pasta HTML.
     # abra o arquivo index.html com seu navegador.
-</code>
+```
+
 <br><br>
 <h2>&#x1F6E0 Tecnologias:</h2>
 <p align="justify">As seguintes ferramentas foram usadas na construção dos templates</p>
