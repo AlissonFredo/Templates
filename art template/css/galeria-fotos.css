@@ -1,0 +1,12 @@
+#galeria-fotos .container-fluid {
+    padding: 0;
+}
+
+#galeria-fotos img {
+    width: 100%;
+}
+
+#galeria-fotos .col-sm-6 {
+    padding-left: 0;
+    padding-right: 0;
+}
