@@ -8,6 +8,8 @@
 <br>
  <h2>&#x2705 Demonstrações:</h2>
  <p align="center"><img src="screenshots/giphy.gif" alt="" width="542px;">&nbsp;&nbsp;&nbsp;<img src="screenshots/giphy1.gif" alt="" width="150px;"></p>
+ <br><br>
+ <p align="center"><img src="screenshots/art1.gif" alt="" width="542px;">&nbsp;&nbsp;&nbsp;<img src="screenshots/art2.gif" alt="" width="150px;"></p>
  
  <br><br>
 <h2>&#x2705 Como navegar nos layouts:</h2>
