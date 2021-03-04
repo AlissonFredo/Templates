@@ -1,12 +1,21 @@
-#galeria-fotos .container-fluid {
-    padding: 0;
+#banner .card-columns .card {
+    margin-bottom: 0;
 }
 
-#galeria-fotos img {
-    width: 100%;
+@media (min-width: 576px) {
+    #banner .card-columns {
+        -webkit-column-count: 2;
+        -moz-column-count: 2;
+        column-count: 2;
+        -webkit-column-gap: 0;
+        -moz-column-gap: 0;
+        column-gap: 0;
+    }
 }
 
-#galeria-fotos .col-sm-6 {
-    padding-left: 0;
-    padding-right: 0;
+@media (min-width: 768px) {
+    #banner .container-fluid {
+        padding-left: 0;
+        padding-right: 0;
+    }
 }

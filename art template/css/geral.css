@@ -3,3 +3,9 @@ body {
     background: #f2f2f2;
     overflow-x: hidden;
 }
+
+@media (max-width: 575.98px) {
+	body {
+        overflow-x: hidden;
+    }
+}

@@ -1,19 +1,14 @@
 #menu {
+    width: 100%;
     background: #fff;
 }
 
-#menu ul {
-    width: 100%;
-}
-
-#menu ul li {
-    width: 50%;
+#menu .row {
     padding-top: 1.2em;
     padding-bottom: 1.2em;
 }
 
 #menu a {
-    display: inline-block;
     font-size: 23px;
     color: #000;
     padding: 10px;
@@ -22,4 +17,14 @@
 
 #menu a:hover {
     background: #d9d9d9;
+    text-decoration: none;
+}
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	#menu a {
+        font-size: 18px;
+        padding: 6px;
+        letter-spacing: 0;
+    }
 }

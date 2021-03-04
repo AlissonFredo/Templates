@@ -9,7 +9,6 @@
 }
 
 #sobre img {
-    width: 320px;
     padding-top: 2em;
     padding-bottom: 3em;
 }
@@ -40,4 +39,11 @@
 
 #sobre .col-xl-12 {
     padding: 0;
+}
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	#sobre p {
+        text-align: justify;
+    }
 }
