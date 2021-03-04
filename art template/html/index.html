@@ -16,6 +16,7 @@
     <link rel="stylesheet" type="text/css" href="../css/menu.css">
     <link rel="stylesheet" type="text/css" href="../css/geral.css">
     <link rel="stylesheet" type="text/css" href="../css/galeria-fotos.css">
+    <link rel="stylesheet" type="text/css" href="../css/about.css">
 
     <title>my art</title>
 </head>
@@ -23,16 +24,20 @@
 
     <header id="menu">
         <div class="container-fluid">
-            <nav>
-                <ul class="nav">
-                    <li class="nav-item">
-                        <a class="nav-link text-uppercase" href="">My Art</a>
-                    </li>
-                    <li class="nav-item text-right">
-                        <a class="nav-link" href="">About</a>
-                    </li>
-                </ul>
-            </nav>
+            <div class="row">
+                <div class="col-md-12">
+                    <nav>
+                        <ul class="nav">
+                            <li class="nav-item">
+                                <a class="nav-link text-uppercase" href="">My Art</a>
+                            </li>
+                            <li class="nav-item text-right">
+                                <a class="nav-link" href="">About</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>  
         </div>
     </header>
 
@@ -40,21 +45,56 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-sm-6">
-                    <img src="../img/img1.jpg" alt="">
-                    <img src="../img/img2.jpg" alt="">
-                    <img src="../img/img3.jpg" alt="">
+                    <img class="img-fluid" src="../img/img1.jpg" alt="">
+                    <img class="img-fluid" src="../img/img2.jpg" alt="">
+                    <img class="img-fluid" src="../img/img3.jpg" alt="">
                 </div>
                 <div class="col-sm-6">
-                    <img src="../img/img4.jpg" alt="">
-                    <img src="../img/img5.jpg" alt="">
+                    <img class="img-fluid" src="../img/img4.jpg" alt="">
+                    <img class="img-fluid" src="../img/img5.jpg" alt="">
                 </div>
             </div>
         </div>
     </section>
 
-    <section id="sobre" style="background: hotpink;">
+    <section id="sobre">
         <div class="container">
-            about
+            <div class="row justify-content-center text-center">
+
+                <div class="col-md-10">
+                    <h1>About</h1>
+                </div>
+
+                <div class="col-md-10">
+                    <img src="../img/boy.jpg" alt="">
+                </div>
+
+                <div class="col-md-10">
+                    <p>
+                        Just me, myself and I, exploring the universe of unknownment. I have a heart of love and an interest of lorem ipsum and mauris neque quam blog. I want to share my world with you. Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla. Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.
+                    </p>
+                    <p class="p-destaque">Do not hesitate to contact me!</p>
+                </div>
+
+                <div class="col-md-10">
+                    <form>
+                        <div class="form-group">
+                            <label for="name">Name</label>
+                            <input type="text" class="from-control" id="name">
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Email</label>
+                            <input type="email" class="from-control" id="email">
+                        </div>
+                        <div class="form-group">
+                            <label for="message">Message</label>
+                            <input type="text" class="from-control" id="message">
+                        </div>
+                        <button type="submit" class="btn btn-block">send</button>
+                    </form>
+                </div>
+
+            </div>
         </div>
     </section>
 

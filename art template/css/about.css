@@ -1,0 +1,43 @@
+#sobre {
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+#sobre h1 {
+    font-size: 1.8em;
+    letter-spacing: 1px;
+}
+
+#sobre img {
+    width: 320px;
+    padding-top: 2em;
+    padding-bottom: 3em;
+}
+
+#sobre .p-destaque {
+    color: #ff4d4d;
+    font-size: 1.3em;
+}
+
+#sobre button {
+    background: #666666;
+    color: #fff;
+}
+
+#sobre button:hover {
+    background: #bfbfbf;
+    color: #000;
+}
+
+#sobre label, #sobre input {
+    display: block;
+}
+
+#sobre input {
+    width: 100%;
+    padding: 0;
+}
+
+#sobre .col-xl-12 {
+    padding: 0;
+}
