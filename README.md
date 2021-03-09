@@ -1,10 +1,10 @@
 <h1 align="center">Templates</h1>
 <h2>&#x1F4D2; Sobre:</h2>
-<p align="justify">Template é uma repositorio onde guardo os layouts Web que estou replicando. Estes layouts replicados foram inspirados nos <a href="https://www.w3schools.com/css/css_rwd_templates.asp">layouts do site w3schools</a>. O objetivo é fazer com que eu pratique e ganhe fluencia nas tecnologias utilizadas nestes layouts.</p>
+<p align="justify">Template é um repositório onde guardo os layouts Web que estou replicando. Estes layouts replicados foram inspirados nos <a href="https://www.w3schools.com/css/css_rwd_templates.asp">layouts do site w3schools</a>. O objetivo é fazer com que eu pratique e ganhe fluência nas tecnologias utilizadas nestes layouts.</p>
 
-<p align="justify">Estes layouts estão sendo replicados do zero, portanto não estou consultando o codigo dos layouts da <a href="https://www.w3schools.com/">w3schools</a> &#x1F61C;&#x1F61C;&#x1F61C;.</p>
+<p align="justify">Estes layouts estão sendo replicados do zero, portanto não estou consultando o código dos layouts da <a href="https://www.w3schools.com/">w3schools</a> &#x1F61C;&#x1F61C;&#x1F61C;.</p>
 <br>
-<h2 align="center">&#x1F6A7 Templates em contrução &#x1F6A7</h2>
+<h2 align="center">&#x1F6A7 Templates em construção &#x1F6A7</h2>
 <br>
  <h2>&#x2705 Demonstrações:</h2>
  <p align="center"><img src="screenshots/giphy.gif" alt="" width="542px;">&nbsp;&nbsp;&nbsp;<img src="screenshots/giphy1.gif" alt="" width="150px;"></p>
